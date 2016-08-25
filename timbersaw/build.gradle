@@ -24,4 +24,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:+'
     compile 'io.reactivex:rxjava:+'
     compile 'com.google.code.gson:gson:+'
+    compile 'com.squareup.okhttp3:okhttp:+'
 }
