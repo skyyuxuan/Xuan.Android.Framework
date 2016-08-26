@@ -16,7 +16,6 @@ import okhttp3.RequestBody;
 public class CmdWeiboUser implements IRestCmd {
 
     private String UserID;
-    private String ScreenName;
 
     public String getUserID() {
         return UserID;
